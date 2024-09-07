@@ -4,7 +4,7 @@
     <!-- Azure Logo -->
     <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure Logo" class="mt-8 w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24" />
     <h2 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400 mt-6 sm:mt-8 md:mt-10 mb-4 sm:mb-5 md:mb-6 text-center tracking-tight">
-      Run on Microsoft Azure
+      Run from Microsoft Azure
     </h2>
     <h1 class="text-2xl sm:text-3xl md:text-4xl font-light text-gray-200 tracking-wide mb-6 sm:mb-7 md:mb-8 text-center">
       Welcome to, <span class="font-semibold text-blue-400">Kim project</span> in Nuxt 3
